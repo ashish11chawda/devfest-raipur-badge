@@ -1,4 +1,4 @@
-# [#GoogleCloudReady Facilitator Program Badge Generator]()
+# [#GoogleCloudReady Facilitator Program Badge Generator](https://gcrfbadge.web.app/)
 
 <img src="public/screenshot.png"/>
 
