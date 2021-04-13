@@ -95,7 +95,7 @@
   }
   .button:hover {
     box-shadow: var(--shadow-elevation-2);
-    background-color: #9fc1f9;
+    background-color: #525252;
   }
   .button:disabled {
     box-shadow: var(--shadow-elevation-2);
