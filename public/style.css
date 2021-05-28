@@ -147,11 +147,29 @@
   .social-link{
     margin-right: 20px;
   }
-  .social-link:hover > i{
-    color: #858585;
+  a.social-link.github i{
+    color: #24292e;
   }
-  .social-link > i{
-    color: #525252;
+  a.social-link.linkedin i{
+    color: #0a66c2;
+  }
+  a.social-link.twitter i{
+    color: #1da1f2;
+  }
+  a.social-link.instagram i{
+    color: #BA00B4;
+  }
+  a.social-link.github:hover i{
+    color: #4285F4;
+  }
+  a.social-link.linkedin:hover i{
+    color: #FBBC05;
+  }
+  a.social-link.twitter:hover i{
+    color: #34A853;
+  }
+  a.social-link.instagram:hover i{
+    color: #EA4335;
   }
 
   .preview-panel {

@@ -22,7 +22,7 @@
   <meta property="og:type" content="website" />
   <meta
     property="og:image"
-    content="./gcrf21.png"
+    content="gcrf21.png"
   />
   <meta property="og:url" content="https://gcrfbadge.web.app/" />
   <meta property="og:site_name" content="GoogleCloudReady Facilitator program" />
@@ -41,7 +41,7 @@
   />
   <meta
     name="twitter:image"
-    content="./gcrf21.png"
+    content="gcrf21.png"
   />
   <meta name="twitter:tags" content="googlecloudready, googlecloud, googlecloud_IN, facilitator, sstc" />
   <!-- Social Meta -->
@@ -52,7 +52,7 @@
   />
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <script>
+  <!-- <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() {
       dataLayer.push(arguments);
@@ -60,7 +60,7 @@
     gtag("js", new Date());
 
     gtag("config", "UA-176733991-3");
-  </script>
+  </script> -->
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -113,17 +113,18 @@
 		<button class="button m4" onclick="milestone4()">Milestone 4</button>
 	  </div>
 	  <div class="credits">
-	GCR Facilitator Program Badge Generator based on <a href="https://github.com/DevFest-India/badge-devfest">DevFest India Badge Generator</a>
+	GCR Facilitator Program Badge Generator based on <a target="_blank" href="https://github.com/DevFest-India/badge-devfest">DevFest India Badge Generator</a>
 	<p style="color:#8d0101;">
     This project is not endorsed and/or supported by Google, the corporation.
   </p>
   <p>
-	<strong>&lt;/&gt;</strong> with &#10084;&#65039; by <a href="https://www.linkedin.com/in/ashishchawda/" style="text-decoration:none;">Ashish Chawda</a>
+	<strong>&lt;/&gt;</strong> with &#10084;&#65039; by <a target="_blank" href="https://www.linkedin.com/in/ashishchawda/" style="text-decoration:none;">Ashish Chawda</a>
 	</p>
   <p class="social">
-    <a class="social-link" href="https://github.com/pixan198"><i class="fa fa-github fa-2x"></i></a>
-    <a class="social-link" href="https://www.linkedin.com/in/ashishchawda/"><i class="fa fa-linkedin fa-2x"></i></a>
-    <a class="social-link" href="https://twitter.com/ashish11chawda"><i class="fa fa-twitter fa-2x"></i></a>
+    <a class="social-link github" target="_blank" href="https://github.com/pixan198"><i class="fa fa-github fa-2x"></i></a>
+    <a class="social-link linkedin" target="_blank" href="https://www.linkedin.com/in/ashishchawda/"><i class="fa fa-linkedin fa-2x"></i></a>
+    <a class="social-link twitter" target="_blank" href="https://twitter.com/ashish11chawda"><i class="fa fa-twitter fa-2x"></i></a>
+    <a class="social-link instagram" target="_blank" href="https://www.instagram.com/_tachyon._"><i class="fa fa-instagram fa-2x"></i></a>
   </p>
 	</div>
     </div>
@@ -148,10 +149,13 @@
   </div>
 
   <script src="script.js"></script>
-<script src="/__/firebase/8.4.1/firebase-app.js"></script>
+<script src="/__/firebase/8.6.3/firebase-app.js"></script>
 
-<script src="/__/firebase/8.4.1/firebase-analytics.js"></script>
+<script src="/__/firebase/8.6.3/firebase-analytics.js"></script>
 
 <script src="/__/firebase/init.js"></script>
+<script>
+  const analytics = firebase.analytics();
+</script>
   </body>
 </html>
