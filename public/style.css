@@ -159,17 +159,8 @@
   a.social-link.instagram i{
     color: #BA00B4;
   }
-  a.social-link.github:hover i{
-    color: #4285F4;
-  }
-  a.social-link.linkedin:hover i{
-    color: #FBBC05;
-  }
-  a.social-link.twitter:hover i{
-    color: #34A853;
-  }
-  a.social-link.instagram:hover i{
-    color: #EA4335;
+  a.social-link:hover i{
+    color: #303030;
   }
 
   .preview-panel {
