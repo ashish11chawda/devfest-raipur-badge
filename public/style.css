@@ -188,13 +188,13 @@
     border-radius: 50%;
     width: 64px;
     height: 64px;
-    background-color: #0005df;
+    background-color: #ea4335;
     box-shadow: var(--shadow-elevation-1);
     transition: background-color 100ms ease, box-shadow 100ms ease;
   }
 
   .download-fab:hover {
-    background-color: #0005df;
+    background-color: hsl(5, 81%, 50%);
     box-shadow: var(--shadow-elevation-2);
   }
 
@@ -208,6 +208,8 @@
     align-items: center;
     width: 100%;
     padding: 0 20px;
+    background-color: #4285f4;
+    color: #fff;
   }
 
   .header-flex-wrapper .badge-list {
@@ -224,7 +226,7 @@
   }
 
   .blue-btn {
-    background-color: #4285F4;
+    background-color: #a1cbfb;
     border-color: rgb(0, 5, 223);
     text-transform: capitalize;
     border-radius: 5px;
@@ -238,9 +240,9 @@
   .border-btn {
     text-transform: capitalize;
     border-radius: 5px;
-    border: 1px solid rgb(224, 224, 224);
-    color: rgb(0, 5, 223);
-    background-color: white;
+    /* border: 1px solid #a1cbfb; */
+    background-color: hsl(0, 0%, 100%);
+    color: #676c72;
     text-decoration: none;
     font-size: 18px;
     padding: 8px 20px;
@@ -269,7 +271,7 @@
       flex: 1;
     }
     .input {
-      margin-bottom: 24px;
+      margin-bottom: 15px;
     }
     .download-fab {
       width: 56px;

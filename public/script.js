@@ -55,23 +55,23 @@ const canvas = document.querySelector("canvas");
     };
 
     const banner = new Image();
-    banner.src = "./badge-gcr1.png";
+    banner.src = "./devfest-badge-2022.png";
     banner.onload = () => {
       draw();
     };
 	
-	const milestone1 = () => {
-      banner.src = "./badge-gcr1.png";
-    };
-	const milestone2 = () => {
-      banner.src = "./badge-gcr2.png";
-    };
-	const milestone3 = () => {
-      banner.src = "./badge-gcr3.png";
-    };
-	const milestone4 = () => {
-      banner.src = "./badge-gcr4.png";
-    };
+	// const milestone1 = () => {
+  //     banner.src = "./badge-gcr1.png";
+  //   };
+	// const milestone2 = () => {
+  //     banner.src = "./badge-gcr2.png";
+  //   };
+	// const milestone3 = () => {
+  //     banner.src = "./badge-gcr3.png";
+  //   };
+	// const milestone4 = () => {
+  //     banner.src = "./badge-gcr4.png";
+  //   };
 
     const draw = () => {
       if (image) {
