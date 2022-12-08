@@ -1,9 +1,7 @@
-# [#GoogleCloudReady Facilitator Program Badge Generator](https://gcrfbadge.web.app/)
-
-<img src="public/screenshot.png"/>
+# [#DevFest Raipur 2022 Badge Generator](https://devfestraipur.web.app)
 
 
-> GCR Facilitator Program Badge Generator based on GDE Badge Generator by Henry Lim(https://github.com/limhenry/gde-badge-generator)
+> DevFest Raipur 2022 Badge Generator based on GDE Badge Generator by Henry Lim(https://github.com/limhenry/gde-badge-generator)
 
 
 
