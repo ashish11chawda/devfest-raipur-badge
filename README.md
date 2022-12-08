@@ -13,6 +13,13 @@ This project is built using
 <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
+<h3>
+Contributors:
+</h3>
+<ol type="I">
+<li><a href="https://github.com/ashish11chawda"target="_blank">Ashish Chawda</a><br></li>
+<li><a href="https://github.com/ishajain2002"target="_blank">Isha jain</a><br></li>
+</ol>
 > DevFest Raipur 2022 Badge Generator based on GDE Badge Generator by Henry Lim(https://github.com/limhenry/gde-badge-generator)
 
 
