@@ -20,7 +20,7 @@ Contributors:
 <li><a href="https://github.com/ashish11chawda"target="_blank">Ashish Chawda</a><br></li>
 <li><a href="https://github.com/ishajain2002"target="_blank">Isha jain</a><br></li>
 </ol>
-> DevFest Raipur 2022 Badge Generator based on GDE Badge Generator by Henry Lim(https://github.com/limhenry/gde-badge-generator)
+DevFest Raipur 2022 Badge Generator based on GDE Badge Generator by Henry Lim(https://github.com/limhenry/gde-badge-generator)
 
 
 
