@@ -1,4 +1,4 @@
-# [#DevFest Raipur 2022 Badge Generator](https://devfestraipur.web.app)
+# [DevFest Raipur 2022 Badge Generator](https://devfestraipur.web.app)
 
 <h3>
 This project is built using 
@@ -16,11 +16,12 @@ This project is built using
 <h3>
 Contributors:
 </h3>
-<ol type="I">
+<ol type="1">
 <li><a href="https://github.com/ashish11chawda"target="_blank">Ashish Chawda</a><br></li>
-<li><a href="https://github.com/ishajain2002"target="_blank">Isha jain</a><br></li>
+<li><a href="https://github.com/ishajain2002"target="_blank">Isha Jain</a><br></li>
 </ol>
-DevFest Raipur 2022 Badge Generator based on GDE Badge Generator by Henry Lim(https://github.com/limhenry/gde-badge-generator)
+
+> DevFest Raipur 2022 Badge Generator based on [**GDE Badge Generator by Henry Lim**](https://github.com/limhenry/gde-badge-generator)
 
 
 
